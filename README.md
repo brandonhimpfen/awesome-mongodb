@@ -38,6 +38,7 @@
 
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - The official MongoDB GUI for querying, visualizing, and analyzing data.
 - [Robo 3T (Robomongo)](https://robomongo.org/) - A lightweight, open-source MongoDB GUI.
+- [Rustyrobo](https://github.com/Tatayoyoh/rustyrobo) - An open-source rewrite of Robo 3T that runs on current MongoDB versions (3.6 to 8.x).
 - [Studio 3T](https://studio3t.com/) - A powerful GUI and IDE for MongoDB with a built-in query editor.
 - [DBeaver](https://dbeaver.io/) - A free, universal database tool that supports MongoDB.
 - [NoSQLBooster for MongoDB](https://nosqlbooster.com/) - A MongoDB GUI client with intelligent query capabilities.
